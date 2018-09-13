@@ -1,6 +1,6 @@
 ## Python for Data Science Essential Training
 
-    Markup 1. Data Munging Basics
+    Markup : 1. Data Munging Basics
 
             i. Filter and Select Data
             ii. Treat Missing Values
